@@ -1,1 +1,2 @@
- non empty 2
+#!/bin/bash
+non empty 2
