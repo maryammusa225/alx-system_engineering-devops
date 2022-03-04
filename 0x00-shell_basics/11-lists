@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . ../boot
+[5~ls -la . ../boot
